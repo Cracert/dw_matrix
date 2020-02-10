@@ -1,2 +1,2 @@
-# dw_matrix
+# Matrix project
 Matrix for DataWorkshop
